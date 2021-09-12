@@ -11,6 +11,9 @@
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
+* {
+  font-family: 'Urbanist', sans-serif;
+}
 
 /*
  * Base structure
